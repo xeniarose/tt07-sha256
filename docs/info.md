@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a minimal SHA-256 hash core implemented in a single-cycle-round architecture. TODO: expand
+on this
 
 ## How to test
 
-Explain how to use your project
+TODO: write instructions
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware is needed besides some method of interacting with the bus to transfer commands
+and data.

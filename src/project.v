@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024 xenia dragon
+ * SPDX-FileCopyrightText: Copyright (c) 2024 xenia dragon
  * SPDX-License-Identifier: Apache-2.0
  *
  * [usagi holding floppy disk.png] i'll just warn you right now, i don't know how to use a computer
